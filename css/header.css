@@ -55,6 +55,8 @@
   margin: 0 0 0 150px; }
   .menu__search.active .search__form {
     display: block; }
+  .menu__search img {
+     cursor: pointer; }
   .menu__search img:hover {
     opacity: 0.5; }
 .menu__burger {

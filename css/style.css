@@ -639,7 +639,7 @@ a:hover {
     align-items: center;
     padding: 0 0 200px 0;
     margin: 10px; }
-
+form.subscribe__form {displat:flex:}
 .form__input {
   font-family: Montserrat;
   font-size: 21px;
